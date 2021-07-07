@@ -1,0 +1,1 @@
+print("este archivo se cree javacript")
